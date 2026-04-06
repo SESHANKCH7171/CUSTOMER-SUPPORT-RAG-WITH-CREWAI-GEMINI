@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+crewai_gemini_env/
+.ipynb_checkpoints/
+rwa.ipynb
