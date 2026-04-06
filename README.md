@@ -69,7 +69,7 @@ Customer Inquiry (Input)
 | Layer | Technology |
 |---|---|
 | **Agent Framework** | CrewAI |
-| **LLM** | Google Gemini 2.5 Pro Preview |
+| **LLM** | Google Gemini 3.1 Pro Preview |
 | **Tools** | `ScrapeWebsiteTool`, `SerperDevTool`, `WebsiteSearchTool` |
 | **API Key Management** | `python-dotenv` (recommended) |
 | **Environment** | Jupyter Notebook / Google Colab |
@@ -105,7 +105,6 @@ pip install crewai crewai-tools google-generativeai python-dotenv
 **Option A — .env file (Recommended):**
 ```env
 GEMINI_API_KEY=your_gemini_api_key_here
-SERPER_API_KEY=your_serper_api_key_here
 ```
 Then load it in the notebook:
 ```python
