@@ -6,7 +6,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)
 ![CrewAI](https://img.shields.io/badge/CrewAI-Multi--Agent-purple?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Google-Gemini%202.5%20Pro-orange?style=for-the-badge&logo=google)
+![Gemini](https://img.shields.io/badge/Google-Gemini%203.1%20Pro-orange?style=for-the-badge&logo=google)
 ![Status](https://img.shields.io/badge/Status-Shipped%20✅-brightgreen?style=for-the-badge)
 
 ---
